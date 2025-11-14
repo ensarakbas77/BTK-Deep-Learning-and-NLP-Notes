@@ -6,7 +6,7 @@ Bu repo, BTK Akademi’de yayınlanan derin öğrenme, doğal dil işleme (NLP) 
 Yapay zekâ alanında hem teorik temelleri hem de uygulama becerilerini geliştirmeyi hedefleyen kişisel bir öğrenme arşividir.
 Repo iki ana klasörden oluşmaktadır:
 
-`/NLP_1` → *Doğal Dil İşleme çalışmaları*
+`/NLP_1` → *Doğal Dil İşleme çalışmaları* <br>
 `/NLP_2` → *Derin Öğrenme ile Doğal Dil İşleme pratikleri* <br>
 `/DataScience` → *Veri Bilimi, Python ve TensorFlow uygulamaları*
 
